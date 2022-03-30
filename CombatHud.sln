@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{12958A32-D445-4C78-991D-ADC5F9FEFA3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombatHud", "src\CombatHud\CombatHud.csproj", "{B3E78BF3-8D44-45E1-9FA9-B42D2C1A7CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E78BF3-8D44-45E1-9FA9-B42D2C1A7CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E78BF3-8D44-45E1-9FA9-B42D2C1A7CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E78BF3-8D44-45E1-9FA9-B42D2C1A7CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E78BF3-8D44-45E1-9FA9-B42D2C1A7CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3E78BF3-8D44-45E1-9FA9-B42D2C1A7CEE} = {12958A32-D445-4C78-991D-ADC5F9FEFA3A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FB3525-C2F6-4001-916D-6C6AC3013CF8}
+	EndGlobalSection
+EndGlobal
